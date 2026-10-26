@@ -1,0 +1,6 @@
+CAMINHOS MÁGICOS — VERSÃO CORRIGIDA
+
+Todos os recursos estão dentro de index.html.
+Para testar: descompacte e abra index.html no Chrome.
+Para atualizar o GitHub ou Netlify: substitua o index.html anterior pelo deste pacote na raiz do site. Não precisa da pasta assets.
+Música começa após Vamos brincar. Voz: Ajustes > Voz em português. O timbre depende das vozes disponíveis no aparelho.
